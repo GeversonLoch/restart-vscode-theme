@@ -1,0 +1,21 @@
+{
+  "name": "restart",
+  "displayName": "restart",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Restart Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/restart-color-theme.json"
+      }
+    ]
+  }
+}
